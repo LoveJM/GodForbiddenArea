@@ -1,0 +1,9 @@
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\bin\Debug\2.2.1.exe.config
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\obj\Debug\2.2.1.csprojResolveAssemblyReference.cache
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\obj\Debug\_2._2._1.Properties.Resources.resources
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\obj\Debug\2.2.1.csproj.GenerateResource.Cache
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\bin\Debug\2.2.1.exe
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\bin\Debug\2.2.1.pdb
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\obj\Debug\MyNetProgramProj.frm_GetAllProcessInfo.resources
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\obj\Debug\2.2.1.exe
+D:\GitHub\GodForbiddenArea\MyNetProgramProj\2.2.1\obj\Debug\2.2.1.pdb
