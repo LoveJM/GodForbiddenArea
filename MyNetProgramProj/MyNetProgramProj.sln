@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.1", "2.2.1\2.2.1.csproj", "{A08C8A0D-2BC7-4026-9C10-4D1FD06F5043}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.2.1StartStopProcess_example2_2", "2.2.1StartStopProcess_example2_2\2.2.1StartStopProcess_example2_2.csproj", "{F80B15E3-3DA9-41D9-BF95-AD3B3EF4259D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{A08C8A0D-2BC7-4026-9C10-4D1FD06F5043}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A08C8A0D-2BC7-4026-9C10-4D1FD06F5043}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A08C8A0D-2BC7-4026-9C10-4D1FD06F5043}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80B15E3-3DA9-41D9-BF95-AD3B3EF4259D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80B15E3-3DA9-41D9-BF95-AD3B3EF4259D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80B15E3-3DA9-41D9-BF95-AD3B3EF4259D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80B15E3-3DA9-41D9-BF95-AD3B3EF4259D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
